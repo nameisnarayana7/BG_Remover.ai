@@ -42,9 +42,7 @@ No complicated editing tools. No manual selection. Just choose, remove, preview,
 | 💾 Save your image | Export the result as PNG or JPG |
 | 🖥️ Desktop interface | Lightweight interface built with Tkinter |
 
-## 🎬 Demo
 
-> Add your own screenshots or screen recording to the `assets/` folder and update the paths below.
 
 <div align="center">
 
@@ -70,14 +68,7 @@ AI-Background-Remover/
 │
 ├── background_remover.py
 ├── README.md
-├── requirements.txt
-│
-└── assets/
-    ├── demo.gif
-    ├── step-1.png
-    ├── step-2.png
-    ├── step-3.png
-    └── step-4.png
+|── requirements.txt
 ```
 
 ## ⚙️ Installation
@@ -85,7 +76,7 @@ AI-Background-Remover/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/AI-Background-Remover.git
+git clone https://github.com/nameisnarayana7/BG_Remover.ai.git
 cd AI-Background-Remover
 ```
 
@@ -179,7 +170,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 <div align="center">
 
-### 💜 Built with Python. Powered by AI. Made for everyone.
+### 💜 Built with Python. Powered by Narayana. Made for everyone.
 
 If this project helped you, consider giving the repository a ⭐
 
