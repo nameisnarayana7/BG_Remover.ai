@@ -54,7 +54,7 @@ No complicated editing tools. No manual selection. Just choose, remove, preview,
 
 </div>
 
-## 🧰 Tech stack
+## 🧰 Tech stack and Tools
 
 - **Python** — application logic
 - **Tkinter** — desktop graphical user interface
